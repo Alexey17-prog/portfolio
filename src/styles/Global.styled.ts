@@ -12,7 +12,7 @@ export const GlobalStyled = createGlobalStyle`
     }
     body {
         margin: 0;
-        font-family:'Be Vietnam Regular',-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        font-family:'Be Vietnam', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
         'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
         sans-serif;
         -webkit-font-smoothing: antialiased;
